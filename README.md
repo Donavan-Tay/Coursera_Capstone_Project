@@ -1,1 +1,1 @@
-# Coursera_Capstone_Project
+# Coursera_Capstone_Project_machine_learning_with_python
